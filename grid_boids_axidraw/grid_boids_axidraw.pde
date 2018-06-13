@@ -26,8 +26,8 @@ void settings()
 void setup()
 {
   boids = new ArrayList<Boid>();
-  createTargets(4, 4);
-  createBoids(1);
+  createTargets(5, 5);
+  createBoids(10);
 }
 
 // --------------------------------------------------
